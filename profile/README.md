@@ -1,9 +1,7 @@
 ![](micro-perceptron-logo.png)
 
-# Micro Perceptron, Inc.
+## > [Micro Perceptron, Inc.](https://microperceptron.com)
 
-### Niche software engineering company
+We are a small, specialized software engineering company focused on building secure, high performance systems applications.
 
-We are a small, specialized software engineering company focused on building high-quality, niche applications.
-
-> *&copy; 2025 Micro Perceptron, Inc. All rights reserved. This README is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.*
+> *&copy; 2026 Micro Perceptron, Inc. All rights reserved. This README is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.*
